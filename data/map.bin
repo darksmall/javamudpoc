@@ -1,0 +1,8 @@
+/X,Y,Z,DESCRIPCION,TITULO,NORTE,ESTE,SUR,OESTE,ARRIBA,ABAJO,
+0,0,0,Spawn,Spawn,false,false,false,false,true,false,
+0,1,0,Arriba,Estas arriba del spawn,false,false,false,false,false,true,
+0,-1,0,Abajo,Estas abajo del spawn,false,false,false,false,false,true,
+1,0,0,Norte,Estas al norte del spawn,false,false,false,false,false,true,
+-1,0,0,Sur,Estas al sur del spawn,false,false,false,false,false,true,
+0,0,1,Este,Estas al este del spawn,false,false,false,false,false,true,
+0,0,-1,Oeste,Estas al oeste del spawn,false,false,false,false,false,true,
